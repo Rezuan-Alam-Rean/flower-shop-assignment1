@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.logo-home {
+    display: flex;
+    /* background-color: rgb(241, 11, 72); */
+    background: #d42f52;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.logo{
+    padding-left: 20px;
+}
+.home {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    padding-right: 10px;
+    font-family: Lato;
+    font-size: 24px;
+
+}
+
+li a {
+    text-decoration: none;
+    color: aliceblue;
+}
