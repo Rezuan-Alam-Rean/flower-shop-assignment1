@@ -8,7 +8,7 @@
 
 .logo-home {
     display: flex;
-    /* background-color: rgb(241, 11, 72); */
+
     background: #d42f52;
     padding: 10px;
     justify-content: space-between;
@@ -77,4 +77,122 @@ li a {
     border-radius: 8px;
     background: #E55473;
     color: #FFFFFF;
+}
+
+.our-flowers {
+    display: block;
+    text-align: center;
+    margin-top: 40px;
+    padding: 30px;
+
+}
+
+.our-flower-t {
+    margin-bottom: 20px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+.our-flower-p {
+    color: #27272799;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.flower-container {
+    display: flex;
+    align-items: center;
+    padding: 90px;
+    gap: auto;
+    text-align: center;
+    margin: auto;
+
+}
+
+.img-name {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+
+.img-name1 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 350px;
+    height: 450px;
+
+}
+
+
+
+.img-name2 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+
+    width: 350px;
+    height: 450px;
+}
+
+.img-name3 {
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(113, 215, 12, 0.15);
+
+    width: 350px;
+    height: 450px;
+
+}
+
+.icon-container {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+
+    height: 320px;
+
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    justify-content: center;
+    margin: 80px;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+.banner-container2 {
+    display: flex;
+    justify-content: space-around;
+    background-color: #E554731A;
+    align-items: center;
+    padding: 50px;
+
+}
+
+.banner-text2 {
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.banner-p2 {
+    margin: 30px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    .
+}
+
+.off {
+    color: #E55473;
 }
