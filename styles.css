@@ -211,11 +211,19 @@ li a {
 
 }
 
+.instagram-p{
+    
+font-family: Lato;
+font-size: 18px;
+color: #17151599;
+font-weight: 400;
+line-height: 30px;
+}
 
-  
+
 
 .pictures {
-  
+
     display: flex;
     gap: 15px;
     align-items: center;
@@ -227,9 +235,7 @@ li a {
 }
 
 .footer-input {
-    /* margin: 50px;
-    width: 1400px;
-    height: 300px; */
+  
     justify-content: center;
     background-image: url('/Rectangle\ 9.png');
     background-repeat: no-repeat;
@@ -276,3 +282,38 @@ li a {
     background: #FFF;
 }
 
+.footer {
+    
+    display: block;
+    text-align: center;
+    gap: 20px;
+    background: #111010;
+}
+
+.footer-h2 {
+    margin-top: 40px;
+    padding: 30px;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+    color: #FFFFFF;
+
+}
+
+.footer-h4 {
+    color: #FFFFFFE5;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 20px;
+}
+.footer-l{
+color: #FFFFFF66;
+font-family: Lato;
+font-size: 16px;
+font-weight: 400;
+margin-top: 20px;
+padding-bottom: 40px;
+
+}
