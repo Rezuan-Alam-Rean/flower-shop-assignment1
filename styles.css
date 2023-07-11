@@ -107,11 +107,19 @@ li a {
 .flower-container {
     display: flex;
     align-items: center;
-    padding: 90px;
+    padding: 80px;
     gap: auto;
     text-align: center;
+    width: 75%;
     margin: auto;
 
+
+}
+
+.underline {
+    margin: 25px;
+    text-decoration: underline;
+    font-size: 20px;
 }
 
 .img-name {
@@ -153,16 +161,15 @@ li a {
 .icon-container {
     display: flex;
     align-items: center;
-    gap: 40px;
-
-    height: 320px;
-
+    gap: 70px;
+    width: 73%;
+    margin: auto;
+    height: 300px;
+    text-align: center;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
     justify-content: center;
-    margin: 80px;
-    margin-left: 140px;
-    margin-right: 140px;
+    margin-bottom: 120px;
 }
 
 .banner-container2 {
@@ -211,13 +218,13 @@ li a {
 
 }
 
-.instagram-p{
-    
-font-family: Lato;
-font-size: 18px;
-color: #17151599;
-font-weight: 400;
-line-height: 30px;
+.instagram-p {
+
+    font-family: Lato;
+    font-size: 18px;
+    color: #17151599;
+    font-weight: 400;
+    line-height: 30px;
 }
 
 
@@ -235,7 +242,7 @@ line-height: 30px;
 }
 
 .footer-input {
-  
+
     justify-content: center;
     background-image: url("./rectangle\ 9.jpg");
     background-repeat: no-repeat;
@@ -308,12 +315,13 @@ line-height: 30px;
     line-height: 30px;
     margin-bottom: 20px;
 }
-.footer-l{
-color: #FFFFFF66;
-font-family: Lato;
-font-size: 16px;
-font-weight: 400;
-margin-top: 20px;
-padding-bottom: 40px;
+
+.footer-l {
+    color: #FFFFFF66;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 20px;
+    padding-bottom: 40px;
 
 }
