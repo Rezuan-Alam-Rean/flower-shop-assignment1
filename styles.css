@@ -195,3 +195,84 @@ li a {
 .off {
     color: #E55473;
 }
+
+.instagram {
+    margin: 50px;
+    text-align: center;
+}
+
+.instagram-h {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    margin-bottom: 20px;
+    font-weight: 800;
+
+}
+
+
+  
+
+.pictures {
+  
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+
+.footer-input {
+    /* margin: 50px;
+    width: 1400px;
+    height: 300px; */
+    justify-content: center;
+    background-image: url('/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    justify-content: center;
+    padding: 50px;
+    width: 86%;
+    margin: auto;
+    margin-bottom: 40px;
+
+}
+
+.input-title {
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.get {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 20px;
+    margin-top: 30px;
+
+}
+
+.names {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px;
+
+}
+
+.email-id {
+    width: 500px;
+    height: 50px;
+
+    border-radius: 8px;
+    background: #FFF;
+}
+
